@@ -21,5 +21,15 @@ export default function RootLayout({
 }
 
 export const metadata = {
-      generator: 'v0.app'
+      generator: 'QuachThanhLong',
+      title: 'HIV Project',
+      description: 'A project for managing HIV-related data',
+      keywords: ['HIV', 'healthcare', 'data management'],
+      favico: 'https://www.quachthanhlong.com/Logo.png',
+      authors: [
+        {
+          name: 'Quach Thanh Long',
+          url: 'https://github.com/StephenSouth13',
+        },
+      ],
     };
