@@ -102,9 +102,9 @@ open http://localhost:3000
 <div align="center">
 <table>
 <tr>
-<td><img src="/demo-home.png" alt="Trang chủ" width="300"/><br/><b>🏠 Trang chủ</b></td>
-<td><img src="/demo-quiz.png" alt="Quiz" width="300"/><br/><b>📚 Quiz tương tác</b></td>
-<td><img src="/demo-memory.png" alt="Memory Game" width="300"/><br/><b>🧠 Trò chơi trí nhớ</b></td>
+<td><img src="![alt text](image.png)" alt="Trang chủ" width="300"/><br/><b>🏠 Trang chủ</b></td>
+<td><img src="![alt text](image-1.png)" alt="Quiz" width="300"/><br/><b>📚 Quiz tương tác</b></td>
+<td><img src="![alt text](image-2.png)" alt="Memory Game" width="300"/><br/><b>🧠 Trò chơi trí nhớ</b></td>
 </tr>
 </table>
 </div>
